@@ -5,8 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using OnionArchitect.;
-using OnionArchitect.UI_.Models;
+using OnionArchitect.UI.SiteUI.Models;
 
 namespace OnionArchitect.UI.SiteUI.Controllers
 {
